@@ -7,7 +7,7 @@ PreRequisites:
 ---------------
 
 * <a href="http://www.distelli.com/docs/setup.html" target="_blank">Install the DistelliCLI</a>
-* <a href="http://www.distelli.com/docs/server-setup.html" target="_blank">Add your Server</a>. Make sure its an Ubuntu Server.
+* <a href="http://www.distelli.com/docs/server-setup.html" target="_blank">Add your Server</a>
 
 Deploying the SimpleNodeApp
 ---------------------------
@@ -27,6 +27,8 @@ Clone this repo and follow the steps below to deploy the SimpleGoApp to your ser
 
     <pre>% go build -o bin/server src/server.go
     </pre>
+    
+    Note: Make sure you build your app on the same platform as the server you're deploying to.
 
 4. Push a new Release: (<a href="http://www.distelli.com/docs/pushing-an-artifact.html" target="_blank"><i>what is a release?</i></a>)
 
