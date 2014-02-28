@@ -1,0 +1,7 @@
+distelli/SimpleGoApp:
+  Env:
+    - PORT: "8080"
+  Exec:
+    - 'exec ./bin/server $PORT'
+  PkgInclude:
+    - "bin/server"
