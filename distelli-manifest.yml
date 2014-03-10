@@ -1,4 +1,4 @@
-<username>/SimpleGoApp:
+distelli/SimpleGoApp:
   Env:
     - PORT: "8080"
   Exec:
