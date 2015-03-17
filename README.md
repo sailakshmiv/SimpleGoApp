@@ -46,3 +46,4 @@ Wait for the deployment to complete. Once the deployment is finished the SimpleG
 curl http://ec2-67-202-47-54.compute-1.amazonaws.com:8080/
 Hello World from Distelli!
 </pre>
+Check out Distelli at https://www.distelli.com
