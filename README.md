@@ -1,15 +1,15 @@
 SimpleGoApp
 ===========
 
-This is a simple web application written in Go and a distelli manifest file that can be used to deploy your application to any server using the <a href="http://www.distelli.com" target="_blank">Distelli Deployment Platform</a>
+This is a simple web application written in Go and a distelli manifest file that can be used to deploy your application to any server using <a href="https://www.distelli.com" target="_blank">Distelli</a>.
 
-PreRequisites:
+Prerequisites:
 ---------------
 
-* <a href="http://www.distelli.com/docs/setup.html" target="_blank">Install the DistelliCLI</a>
-* <a href="http://www.distelli.com/docs/server-setup.html" target="_blank">Add your Server</a>
+* <a href="https://www.distelli.com/docs/setup" target="_blank">Install the Distelli CLI Tool</a>
+* <a href="https://www.distelli.com/docs/agent-setup" target="_blank">Add Your Server</a>
 
-Deploying the SimpleNodeApp
+Deploying the SimpleGoApp
 ---------------------------
 
 Clone this repo and follow the steps below to deploy the SimpleGoApp to your server.
