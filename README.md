@@ -12,10 +12,10 @@ Prerequisites:
 Deploying the SimpleGoApp
 ---------------------------
 
-Clone this repo and follow the steps below to deploy the SimpleGoApp to your server.
+Clone this repo to your local machine and follow the steps below to deploy the SimpleGoApp to your server.
 
 1. Edit the distelli-manifest.yml file and replace &lt;username&gt; at the top of the file with your username from your Distelli Account
-2. Create the Application: (<a href="http://www.distelli.com/docs/creating-an-application.html" target="_blank"><i>What is this?</i></a>)
+2. Create an Application: (<a href="http://www.distelli.com/docs/creating-an-application.html" target="_blank"><i>What is this?</i></a>)
 
     <i>Replace &lt;username&gt; with your username</i>
     <pre>% distelli create &lt;username&gt;/SimpleGoApp
