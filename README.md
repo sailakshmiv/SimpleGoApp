@@ -9,7 +9,7 @@ Prerequisites:
 * <a href="https://www.distelli.com/docs/setup" target="_blank">Install the Distelli CLI Tool</a>
 * <a href="https://www.distelli.com/docs/agent-setup" target="_blank">Add Your Server</a>
 
-Deploying the SimpleGoApp
+Deploying the SimpleGoApp:
 ---------------------------
 
 Clone this repo to your local machine and follow the steps below to deploy the SimpleGoApp application to your server.
