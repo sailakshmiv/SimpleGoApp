@@ -8,7 +8,7 @@ import (
 
 func handler(w http.ResponseWriter, r *http.Request) {
     w.Header().Set("content-type", "text/html")
-    fmt.Fprintf(w, "<h2>Hello World from Distelli!</h2>")
+    fmt.Fprintf(w, "<h2>Hello World from Distelli! You have a working Go application Deployment!</h2>")
 }
 
 func main() {
