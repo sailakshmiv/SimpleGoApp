@@ -1,6 +1,6 @@
 <username>/SimpleGoApp:
   Env:
-    - PORT: "8080"
+    - PORT: "8002"
   Exec:
     - 'exec ./bin/server $PORT'
   PkgInclude:
